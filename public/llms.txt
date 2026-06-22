@@ -1,0 +1,108 @@
+# מכבי תל אביב — Generative Engine Optimization Map
+
+> An official-style online fan store for Maccabi Tel Aviv football club, featuring a passionate, high-energy atmosphere aimed at die-hard supporters. The store offers Fanatics merchandise, scarves, and custom-designed jerseys with personalization options. The brand identity revolves around fierce club loyalty, yellow-and-green team colors, and the iconic Maccabi spirit — targeting fans who want to wear their passion proudly.
+
+---
+
+## Pages
+
+### בית
+https://-053c4aed.zappy5.app
+חנות האוהדים הרשמית של מכבי תל אביב בכדורגל. גלו את קולקציית הפנאטיקס החדשה: חולצות משחק, צעיפים לוהטים ואביזרים בצהוב-כחול. הצטרפו למשפחה הצהובה ולבשו את התשוקה שלכם בגאווה!
+
+### רוח הפנאטיות
+https://-053c4aed.zappy5.app/fanatics-spirit
+הרוח הפנאטית של מכבי תל אביב קמה לתחייה בקולקציה סוחפת. ביגוד ואביזרים שצועקים אהבה בלתי מתפשרת למועדון, עם עיצובים שמעבירים צמרמורת של דרבי. היכנסו ותנו ללב הצהוב שלכם להוביל!
+
+### תרבות הצעיפים
+https://-053c4aed.zappy5.app/scarf-culture
+הצעיף אינו רק פריט לבוש, הוא דגל אישי של שייכות. גלו את תרבות הצעיפים של מכבי תל אביב: דגמים רשמיים, קלאסיים ומחוממים, רקומים בצהוב-כחול. הרימו צעיף והפכו כל שער לחגיגה בלתי נשכחת!
+
+### חולצות מותאמות אישית
+https://-053c4aed.zappy5.app/custom-jerseys
+הפכו את החולצה הצהובה לסמל אישי. עצבו חולצת משחק מותאמת אישית עם השם והמספר שלכם מאחור, בדיוק כמו הכוכבים על הדשא. הרגישו את הצמרמורת של אצטדיון בלומפילד בכל מסירה – התחילו לעצב עכשיו!
+
+### צור קשר
+https://-053c4aed.zappy5.app/contact
+יש לכם שאלה על מידות, משלוחים או התאמה אישית? צוות חנות האוהדים של מכבי תל אביב כאן כדי לתת לכם שירות אלופים. מלאו את הפרטים ונחזור אליכם עם כל התשובות במהירות של מתפרץ באגף ימין!
+
+### Products
+https://-053c4aed.zappy5.app/products
+המוצרים שלנו - מכבי תל אביב
+
+### Cart
+https://-053c4aed.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-053c4aed.zappy5.app/checkout
+תשלום
+
+### Login
+https://-053c4aed.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-053c4aed.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-053c4aed.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-053c4aed.zappy5.app/product/:slug
+פרטי המוצר - מכבי תל אביב
+
+### Category
+https://-053c4aed.zappy5.app/category/:slug
+מוצרים - מכבי תל אביב
+
+### תודה שפניתם אלינו
+https://-053c4aed.zappy5.app/thank-you
+מכבי תל אביב - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-053c4aed.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-053c4aed.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-053c4aed.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכבי תל אביב
+An official-style online fan store for Maccabi Tel Aviv football club, featuring a passionate, high-energy atmosphere aimed at die-hard supporters. The store offers Fanatics merchandise, scarves, and custom-designed jerseys with personalization options. The brand identity revolves around fierce club loyalty, yellow-and-green team colors, and the iconic Maccabi spirit — targeting fans who want to wear their passion proudly.
+
+## Target Audience
+- אוהדי מכבי תל אביב, פנאטיקס של הקבוצה
+- אוהדי מכבי תל אביב
+- אוספי פנאטיקס
+
+## Industry
+Sports Merchandise E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-053c4aed.zappy5.app/sitemap.xml
+- Robots: https://-053c4aed.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-053c4aed.zappy5.app/llms-full.txt
+- Products (JSON): https://-053c4aed.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-053c4aed.zappy5.app/product-feed.xml
